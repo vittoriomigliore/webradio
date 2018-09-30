@@ -1,0 +1,10 @@
+[
+	{ "radiorevolution": {
+		"name": "Radio rEvolution",
+		"iconUri": "https://www.radiorevolution.it/wptest/wp-content/uploads/2018/04/LogoRadiorEvolutionTesto.png",
+		"radioUri": "http://nr7.newradio.it:9387/live",
+		"albumUri": "https://www.radiorevolution.it/mbradio/OnAir.jpg?time=%d",
+		"detailsUri": "https://www.radiorevolution.it/mbradio/OnAir.txt"
+	}
+},
+]
